@@ -10,4 +10,4 @@ npm i vega-lite@5.0.x
 
 # demo site
 
-[https://foxst5r.github.io/react-lite-vega-api](https://foxst5r.github.io/react-lite-vega-api)
+[https://foxst5r.github.io/react-vega-lite-api](https://foxst5r.github.io/react-vega-lite-api)
