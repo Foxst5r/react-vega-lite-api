@@ -7,3 +7,7 @@ Project that demonstrates template using vega-lite-api through React framework.
 ```
 npm i vega-lite@5.0.x
 ```
+
+# demo site
+
+[https://foxst5r.github.io/react-lite-vega-api](https://foxst5r.github.io/react-lite-vega-api)
